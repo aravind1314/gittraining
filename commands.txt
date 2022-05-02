@@ -6,3 +6,7 @@ git commit -m "message"
 git log
 git diff <file name>
 git restore <file name>
+git remote add origin <url>
+git push origin <branch name>
+git branch <branch name>
+git switch <branch name>
